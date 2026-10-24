@@ -1,0 +1,7 @@
+- ID
+- Session ID
+- Token Hash
+- Issues At - Yayımlama zamanı
+- Expires At
+- Used At
+- Replaced By ID - Yerine geçen token

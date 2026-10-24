@@ -1,0 +1,26 @@
+- ID - Dahili Kullanıcı ID
+- Public ID - Dış Kullanıcı ID, UUID
+- User Name
+- Email
+- Email Verified At
+- Password Hash - Bcrypt kullanılacak
+- Phone
+- Phone Verified At
+- Display Name
+- Avatar URL
+- Bio
+- City
+- Role - User, Moderator veya Admin
+- Status - Beklemede, Aktif, Askıya alınmış, Yasaklı, Silinmiş
+- Credit Balance
+- KYC Status
+- Two Factor Enabled
+- Token Version - 0'dan başka değer olursa tüm tokenler geçersiz
+- Failed Login Count
+- Locked Until
+- Last Login At
+- Password Changed At
+- Locale
+- Created At
+- Updated At
+- Deleted At
