@@ -41,16 +41,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dosya Yapısı.md",
+                "file": "Kullanıcı ve Oturulmar/Kullanıcılar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dosya Yapısı"
+              "title": "Kullanıcılar"
+            }
+          },
+          {
+            "id": "9356f09e35d0e168",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ürünler/Kategoriler.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kategoriler"
+            }
+          },
+          {
+            "id": "9ff7c833b19513cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ürünler/Ürünler.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ürünler"
+            }
+          },
+          {
+            "id": "037087eb88a4e72f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ürünler/Görseller.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Görseller"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -217,17 +259,21 @@
       "bases:Yeni taban oluştur": false
     }
   },
-  "active": "bfdba7301227b35d",
+  "active": "037087eb88a4e72f",
   "lastOpenFiles": [
+    "Ürünler/Ürünler.md",
+    "Ürünler/Görseller.md",
+    "Ürünler/Kategoriler.md",
+    "Kullanıcı ve Oturulmar/Kullanıcılar.md",
+    "Ürünler",
+    "Dosya Yapısı.md",
     "Kullanıcı ve Oturulmar/Kurtarma Kodları.md",
     "Kullanıcı ve Oturulmar/Kullanıcı Oturumları.md",
-    "Kullanıcı ve Oturulmar/Kullanıcılar.md",
     "Kullanıcı ve Oturulmar/Oturum Yenileme Tokenleri.md",
     "Kullanıcı ve Oturulmar/Çift Faktör Doğrulama.md",
     "Fikir.md",
     "Kullanıcı ve Oturulmar",
     "Yeni Metin Belgesi.txt",
-    "Tema Rengi Mavi Ac¦ğ¦-k.jpeg",
-    "Dosya Yapısı.md"
+    "Tema Rengi Mavi Ac¦ğ¦-k.jpeg"
   ]
 }

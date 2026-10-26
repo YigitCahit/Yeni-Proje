@@ -1,0 +1,21 @@
+- ID
+- Public ID
+- Owner ID
+- Category ID
+- Type - Ürünler sadece ürün kategorisine, Mülkler sadece mülk kategorisine eklenebilir
+- Title
+- Description
+- Condition
+- City
+- Wanted Description
+- Estimated Value
+- Credit Charged
+- Value Locked At
+- Status
+- Is Tradable
+- Published At
+- Suspended At
+- Suspended Reason
+- Removed At
+- Updated At
+- Deleted At
