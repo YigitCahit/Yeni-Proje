@@ -1,0 +1,14 @@
+- ID
+- Public ID
+- Item ID
+- Storage Key
+- Original File Name
+- Mime Type
+- File Size
+- Width
+- Height
+- Sort Order
+- Is Cover
+-  Check Sum
+- Created At
+- Deleted At
