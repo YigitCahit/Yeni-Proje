@@ -1,0 +1,8 @@
+- ID
+- Trade ID
+- Event Type
+- Actor ID
+- From Status
+- To Status
+- Details
+- Created At

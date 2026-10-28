@@ -1,0 +1,14 @@
+- ID
+- Public ID
+- User ID
+- Credit Amount
+- Unit Price
+- Total Amount 
+- Currency
+- Provider
+- Provider Payment ID
+- Status
+- Paid At
+- Failure Reason
+- Created At
+- Updated At

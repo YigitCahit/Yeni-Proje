@@ -1,0 +1,14 @@
+- ID
+- Public ID
+- Sender ID
+- Receiver ID
+- User Low ID - Alıcı ve gönderici mesajın hangi yönde gittiğine değil kullanıcıları ID göre belirlenir
+- User High ID
+- Body
+- Client Message ID
+- Send At
+- Read At
+- Expires At
+- Retention Hold Until
+- Sender Hidden At
+- Receiver Hidden At

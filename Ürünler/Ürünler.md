@@ -9,7 +9,8 @@
 - City
 - Wanted Description
 - Estimated Value
-- Credit Charged
+- Credits Charged
+- Fee Paid At
 - Value Locked At
 - Status
 - Is Tradable

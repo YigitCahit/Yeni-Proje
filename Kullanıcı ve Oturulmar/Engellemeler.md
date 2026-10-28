@@ -1,0 +1,4 @@
+- ID
+- Blocker ID
+- Blocked ID
+- Created At

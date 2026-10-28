@@ -1,0 +1,15 @@
+- ID
+- Public ID
+- User ID
+- Type
+- Amount
+- Balance after
+- Item ID
+- Item Value At Charge
+- Ownership Seq
+- Purchase ID
+- Related Transaction ID
+- Created By
+- Note
+- Idempotency Key
+- Created At

@@ -1,0 +1,25 @@
+- ID
+- Public ID
+- Proposer ID
+- Receiver ID
+- Offered Item ID
+- Requested Item ID
+- Item Kind
+- Status
+- Closed Reason
+- Closed By
+- Message
+- Offered Value
+- Requested Value
+- Value Diff Ratio
+- Max Ratio Applied
+- Offered Snapshot
+- Requested Snapshot
+- Expires At
+- Accepted At
+- Proposer Confirmed At
+- Receiver Confirmed At
+- Completed At
+- Closed At
+- Created At
+- Updated At
