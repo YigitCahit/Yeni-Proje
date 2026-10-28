@@ -1,0 +1,16 @@
+- ID
+- Type ID
+- Key
+- Label
+- Data Type
+- Unit
+- Is Required
+- Min Value
+- Max Value
+- Max Length
+- Is Filterable
+- Is Public
+- Is Active
+- Sort Order
+- Created At
+- Updated At

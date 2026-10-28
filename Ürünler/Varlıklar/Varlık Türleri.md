@@ -1,0 +1,10 @@
+- ID
+- Parent ID
+- Slug
+- Name
+- Requires Registration Documents - Zorunlu kayıt belgesi; Örnek tapu veya ruhsat
+- Identifier Label
+- Is Active
+- Sort Order
+- Created At
+- Updated At
