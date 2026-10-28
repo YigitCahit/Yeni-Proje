@@ -1,0 +1,14 @@
+- ID
+- Item ID
+- Sequence No
+- From User ID
+- To User ID
+- Transfer Type
+- Trade ID
+- From User Name Snapshot
+- To User Name Snapshot
+- Estimated Value At Transfer
+- Transferred At
+- Created By
+- Note
+- Created AT

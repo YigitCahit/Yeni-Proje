@@ -1,0 +1,9 @@
+- ID
+- Item ID
+- Attribute ID
+- Value Text
+- Value Number
+- Value Bool
+- Value Date
+- Value Option ID
+- Updated At
