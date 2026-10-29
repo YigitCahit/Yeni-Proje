@@ -6,6 +6,7 @@
 - Sensitive Encrypted - Plaka, şasi, açık adres, ada/parsel
 - Encrypted Key Version
 - Registration Document Key - Belge dosya yolu
+- Registration Verified Owner ID
 - Registration Verified At
 - Registration Verified By
 - Values Version
