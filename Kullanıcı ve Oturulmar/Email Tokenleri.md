@@ -1,0 +1,12 @@
+- ID
+- User ID
+- Purpose
+- Token Hash
+- Email
+- Expires At
+- Used At
+- Invalidated At
+- Attempt Count
+- Requested IP
+- Used IP
+- Created At

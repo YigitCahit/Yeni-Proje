@@ -1,0 +1,8 @@
+- ID
+- Public ID
+- Actor ID
+- Actor User Name Snapshot
+- Actor Role
+- Action
+- Target Type
+- Target Public ID
