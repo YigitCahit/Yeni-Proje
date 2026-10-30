@@ -1,0 +1,21 @@
+- ID
+- Public ID
+- Reporter ID
+- Target Type
+- Target ID
+- Target Public ID
+- Reported User ID
+- Category
+- Description
+- Related Trade ID
+- Target Snapshot
+- Status
+- Priority
+- Resulting Sanction ID
+- Assigned To
+- Resolution Note
+- Resolved By
+- Resolved At
+- Reporter Notified At
+- Created At
+- Updated At

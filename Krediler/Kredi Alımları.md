@@ -7,6 +7,7 @@
 - Currency
 - Provider
 - Provider Payment ID
+- Refunded Credit Amount
 - Status
 - Paid At
 - Failure Reason

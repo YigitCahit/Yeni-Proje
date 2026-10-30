@@ -9,6 +9,5 @@
 - Send At
 - Read At
 - Expires At
-- Retention Hold Until
 - Sender Hidden At
 - Receiver Hidden At

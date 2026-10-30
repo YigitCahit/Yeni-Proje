@@ -1,0 +1,9 @@
+- ID
+- Public ID
+- Ticket ID
+- Type
+- Author ID
+- Author Role
+- Body
+- Event Data
+- Created At

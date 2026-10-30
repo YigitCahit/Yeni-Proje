@@ -1,0 +1,10 @@
+- ID
+- Report ID
+- Message Public ID
+- Sender ID
+- Receiver ID
+- Body
+- Send At
+- Is Reported Message
+- Purge After
+- Created At

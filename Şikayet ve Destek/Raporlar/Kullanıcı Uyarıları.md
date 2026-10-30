@@ -1,0 +1,18 @@
+- ID
+- Public ID
+- User ID
+- Category
+- Internal Reason
+- User Message
+- Issued By
+- Issued By Role
+- Related Item ID
+- Status
+- Expires At
+- Acknowledged
+- Withdrawn At
+- Withdrawn By
+- Withdrawn Reason
+- Created At
+- Updated At
+- 

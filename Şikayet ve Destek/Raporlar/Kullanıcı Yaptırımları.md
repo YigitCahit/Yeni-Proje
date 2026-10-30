@@ -1,0 +1,20 @@
+- ID
+- Public ID
+- User ID
+- Type
+- Status
+- Category
+- Internal Reason
+- User Message
+- Issued By
+- Issued By Role
+- Source Report ID
+- Related Item ID
+- Previous User Status
+- Starts At
+- Ends At
+- Lifted At
+- Lifted By
+- Lifted Reason
+- Created At
+- Updated At

@@ -1,0 +1,20 @@
+- ID
+- Public ID
+- User ID
+- Subject
+- Category
+- Status
+- Priority
+- Opened While Restricted
+- Requires Admin
+- Assigned To
+- Related Sanction ID
+- Related Item ID
+- Last Reply At
+- First Response At
+- Resolved At
+- Resolved By
+- Closed At
+- Closed Reason
+- Created At
+- Updated At
