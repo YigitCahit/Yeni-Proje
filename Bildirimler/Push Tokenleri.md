@@ -1,0 +1,15 @@
+- ID
+- User ID
+- Session ID
+- Platform
+- Provider
+- Token Hash
+- Token Encrypted
+- Device ID
+- App Version
+- Locale
+- Is Active
+- Failure Count
+- Last Used At
+- Created A
+- Updated At

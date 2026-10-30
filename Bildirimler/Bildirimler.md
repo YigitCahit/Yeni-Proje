@@ -1,0 +1,16 @@
+- ID
+- Public ID
+- User ID
+- Type
+- Category
+- Params
+- Target Type
+- Target Public ID
+- Actor User ID
+- Priority
+- Dedupe Key
+- Read At
+- Push Status
+- Email Status
+- Expires At
+- Created At

@@ -1,0 +1,24 @@
+- ID
+- Public ID
+- User ID
+- Status
+- Method 
+- Provider
+- Provider Preference
+- Identity Data Encrypted
+- National ID Hash
+- Encryption Key Version
+- Document Type
+- Document Front Key
+- Document Back Key
+- Selfie Key
+- Reviewed By
+- Reviewed At
+- Reject Reason Code
+- Internal Note
+- Document Expires At
+- Valid Until
+- Media Purge After
+- Submitted IP
+- Created At
+- Updated At
