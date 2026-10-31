@@ -1,0 +1,21 @@
+- ID
+- Public ID
+- Refund Group ID
+- User ID
+- Ticket ID
+- Purchase ID
+- Ledger Transaction ID
+- Credit Amount
+- Refund Amount
+- Currency
+- Method
+- Status
+- Provide Refund ID
+- Failure Reason
+- Attempt Count
+- Approved By
+- Approval Note
+- Idempotency Key
+- Processed At
+- Created At
+- Updated At

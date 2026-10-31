@@ -1,0 +1,22 @@
+- ID
+- Provider
+- Provider Event ID
+- Event Type
+- Normalized Type
+- Signature Valid
+- Status
+- Payload
+- Payload Hash
+- Related Purchase ID
+- Related Refund ID
+- Provider Payment ID
+- Amount
+- Currency
+- Provider Event At
+- Delivery Count
+- Attempt Count
+- Last Error
+- Source IP
+- Received At
+- Processed At
+- Purge After
