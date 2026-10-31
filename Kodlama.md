@@ -1,0 +1,11 @@
+- Docker ve Git kuruldu
+- Config, Extensions ve App factory dosyaları oluşturulacak
+- Run dosyası oluşturulacak
+- Geçici test rotaları oluşturulacak
+- Model dosyaları oluşturulacak
+- Config test edilecek
+- Auth rotaları oluşturulacak
+- Takas ile ilgili rotalar ve iş akışları oluşturulacak
+- Yönetici rotaları oluşturulacak
+- Hata yönetimi ve log sistemleri geliştirilecek
+- Dokümantasyonlar oluşturulacak
