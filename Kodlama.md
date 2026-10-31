@@ -6,6 +6,8 @@
 - Config test edilecek
 - Auth rotaları oluşturulacak
 - Takas ile ilgili rotalar ve iş akışları oluşturulacak
+- 3. Parti altyapılar entegre edilecek
 - Yönetici rotaları oluşturulacak
 - Hata yönetimi ve log sistemleri geliştirilecek
+- WSGI servera ve Production veri tabanlarına geçilecek
 - Dokümantasyonlar oluşturulacak
