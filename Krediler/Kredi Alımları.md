@@ -8,6 +8,12 @@
 - Provider
 - Provider Payment ID
 - Refunded Credit Amount
+- Package ID
+- Package Snapshot
+- List Price
+- Discount Amount
+- Bonus Credit Amount
+- Promo Code ID
 - Status
 - Paid At
 - Failure Reason

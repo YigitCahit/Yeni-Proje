@@ -1,0 +1,22 @@
+- ID
+- Public ID
+- Code
+- Name
+- Type
+- Discount Percent
+- Discount Amount
+- Max Discount Amount
+- Bonus Credits
+- Min Purchase Amount
+- Applies To All Packages
+- Eligibility
+- Assigned User ID
+- Max Total Redemptions
+- Max Per User
+- Redemption Count
+- Starts At
+- Ends At
+- Is Active
+- Created By
+- Created At
+- Updated By

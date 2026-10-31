@@ -9,6 +9,7 @@
 - Ownership Seq
 - Purchase ID
 - Related Transaction ID
+- Redemption ID
 - Created By
 - Note
 - Idempotency Key

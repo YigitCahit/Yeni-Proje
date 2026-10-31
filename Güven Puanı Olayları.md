@@ -1,0 +1,14 @@
+- ID
+- User ID
+- Event Type
+- Direction
+- Source Type
+- Source ID
+- Counterparty ID
+- Weight
+- Algorithm Version
+- Dedupe Key
+- Counted
+- Uncounted Reason
+- Occurred At
+- Created At

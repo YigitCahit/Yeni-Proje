@@ -1,0 +1,12 @@
+- ID
+- Promo Code ID
+- User ID
+- Purchase ID
+- Status
+- Discount Amount
+- Bonus Credits Granted
+- Reserved Until
+- Applied At
+- Released At
+- Reversed At
+- Created At

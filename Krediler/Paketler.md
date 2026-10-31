@@ -1,0 +1,23 @@
+- ID
+- Public ID
+- Slug
+- Name
+- Description
+- Kind
+- Credit Amount
+- Bonus Credit Amount
+- Price
+- Currency
+- Platform
+- Store Product ID
+- Badge
+- Sort Order
+- Is Active
+- Available From
+- Available Until
+- Max Per User
+- Total Stock
+- Sold Count
+- Created By
+- Created At
+- Updated By

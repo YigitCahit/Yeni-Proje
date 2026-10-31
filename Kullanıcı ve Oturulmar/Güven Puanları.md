@@ -1,0 +1,22 @@
+- User ID
+- Score
+- Tier
+- Confidence
+- Algorithm Version
+- Completed Trades
+- Cancelled After Accepted
+- Expired Confirmations
+- Rejected Offers Received
+- Valid Reports Against
+- Dismissed Reports Filed
+- Active Warnings
+- Sanction Count 180 Day
+- Account Age Days
+- KYC Approved
+- Email Verified
+- AVG Response Hours
+- Score Breakdown
+- Calculated At
+- Recalc Requested At
+- Created At
+- Updated At

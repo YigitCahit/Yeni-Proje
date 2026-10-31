@@ -1,0 +1,8 @@
+- ID
+- Setting Key
+- Old Value
+- New Value
+- Changed By
+- Reason
+- Effective At
+- Created At

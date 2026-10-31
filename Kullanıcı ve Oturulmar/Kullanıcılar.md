@@ -13,6 +13,7 @@
 - Role - User, Moderator veya Admin
 - Status - Beklemede, Aktif, Askıya alınmış, Yasaklı, Silinmiş
 - Credit Balance
+- Bonus Credit Balance
 - KYC Status
 - Two Factor Enabled
 - Token Version - 0'dan başka değer olursa tüm tokenler geçersiz
