@@ -1,3 +1,4 @@
+```
 takas-api/
 ├── app/
 │   ├── __init__.py          # create_app() fabrikası
@@ -28,3 +29,4 @@ takas-api/
 ├── requirements.txt
 ├── .env.example
 └── wsgi.py
+```
