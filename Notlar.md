@@ -22,3 +22,9 @@ Yukarıda ki talep gönderildi.
 Veri tabanlarının tasarımları bitti.
 
 Kodlamaya başlanacak.
+
+---
+Modeller kodlanmaya başlandı
+
+**Modellerin hepsi bittiğinde __audit_type__ doldurulacak**
+
