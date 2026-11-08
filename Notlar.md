@@ -28,3 +28,6 @@ Modeller kodlanmaya başlandı
 
 **Modellerin hepsi bittiğinde __audit_type__ doldurulacak**
 
+---
+Modeller in kodlanması bitti.
+Yukarıda yazdığımı yapacağım bir de kendime birkaç not bırakmıştım kodların içine. Onlara bakacağım.
