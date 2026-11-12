@@ -1,4 +1,11 @@
 Flask 3.1.3
 SQLAlchemy 2.0.55
+Flask-SQLAlchemy 3.1.1
 mysqlclient 2.3.0
+Flask-Migrate 4.1.
 python-dotenv 1.2.1
+cryptography 50.0.2
+pyotp 2.10.0
+bcrypt 5.0.0
+marshmallow 4.4.0
+pytest 9.2.0
