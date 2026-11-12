@@ -13,3 +13,20 @@ _**Nothra**_
 
 > Nohtra
 
+Noktra
+
+Notta
+
+Nodta
+
+Netod
+
+Nedot
+
+Nerod
+
+Netold
+
+Nodelt
+
+Dolted
